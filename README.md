@@ -12,7 +12,7 @@ This projects aims at developing innovative machine learning approaches for aero
 
 ## Architecture
 
-![alt text](share_architecture.svg "ShaResNet architecture")
+![alt text](share_architecture.png "ShaResNet architecture")
 
 The ShaResNets are residual networks sharing convolution involved in spatial connections.
 At a given stage the weights are the same for all 3x3 convolutions.
