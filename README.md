@@ -3,7 +3,7 @@
 Reducing residual network parameter number by sharing weights
 
 # Paper
-
+Link to the arxiv paper: https://arxiv.org/abs/1702.08782
 
 #### Project
 
