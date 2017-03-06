@@ -52,7 +52,6 @@ Table of accuracies on CIFAR 10 and 100 and ImageNet ILSVRC 2012 (validation set
 
 The experiments uses Torch7 with neural network package.
 We provide in this repository the model definition.
-The weights will soon be available to download.
 
 #### CIFAR
 
@@ -61,3 +60,10 @@ The model for CIFAR 10 and 100 have been trained using the original implementati
 #### ImageNet
 
 The provided model for imagenet is to be trained using the code from Facebook at  [github.com/facebook/fb.resnet.torch](github.com/facebook/fb.resnet.torch).
+
+#### Pre-trained models
+The weights for ImageNet are available :
+* [ShaResNet 34](https://drive.google.com/open?id=0B6IogDVqG75WcXVIRDE0Zy1mekU)
+* [ShaResNet 50](https://drive.google.com/open?id=0B6IogDVqG75Wd1VfZ0xSSmJ2M1U)
+* [ShaResNet 101](https://drive.google.com/open?id=0B6IogDVqG75WZkxaai1uMFRuUjQ)
+* [ShaResNet 152](https://drive.google.com/open?id=0B6IogDVqG75WWGY2OUtRNnk0Q0k)
